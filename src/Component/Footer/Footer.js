@@ -18,7 +18,7 @@ const Footer = () => {
         <div className="container">
           <div className="row gx-5 pt-5">
             <div className="col">
-              <h4>Learn</h4>
+              <h4>ACADEMIA</h4>
               <p>
                 Vivamus porta efficitur nibh nec convallis. Vestibulum egestas
                 eleifend justo. Ut tellus ipsum, accumsan

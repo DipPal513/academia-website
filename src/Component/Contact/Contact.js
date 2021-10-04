@@ -25,7 +25,7 @@ const Contact = () => {
                     />
                   </div>
                 </div>
-                <div className="form-group">
+                <div className="form-group my-3">
                   <label className="control-label col-sm-2" htmlFor="lname">
                     Last Name:
                   </label>
@@ -39,7 +39,7 @@ const Contact = () => {
                     />
                   </div>
                 </div>
-                <div className="form-group">
+                <div className="form-group mb-3">
                   <label className="control-label col-sm-2" htmlFor="email">
                     Email:
                   </label>
