@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Hospitality, Leisure & Sports Courses",
+    "day": "Mon-Fri",
+    "time": "10 AM - 12 PM",
+    "teacher": "Hubert Franck",
+    "salary": "$89",
+    "image" : "https://html.merku.love/shelly/assets/img/img1.jpg"
+  },
+  {
+    "title": "Basic English Speaking and Grammar",
+    "day": "Mon-Fri",
+    "time": "10 AM - 12 PM",
+    "teacher": "Salman Khan",
+    "salary": "$67",
+    "image" : "https://html.merku.love/shelly/assets/img/img2.jpg"
+
+  },
+  {
+    "title": "Natural Sciences & Mathematics Courses",
+    "day": "Mon-Fri",
+    "time": "10 AM - 12 PM",
+    "teacher": "Sujon Mia",
+    "salary": "$100",
+    "image" :"https://html.merku.love/shelly/assets/img/img4.jpg"
+  },
+  {
+    "title": "Environmental Studies & Earth Sciences",
+    "day": "Mon-Fri",
+    "time": "10 AM - 12 PM",
+    "teacher": "Hubert Franck",
+    "salary": "$55",
+    "image" : "https://html.merku.love/shelly/assets/img/img3.jpg"
+  },
+  {
+    "title": "Basic french Speaking and Writing",
+    "day": "Mon-Fri",
+    "time": "10 AM - 12 PM",
+    "teacher": "Shonchoy Uzzaman",
+    "salary": "$121",
+    "image" : "https://html.merku.love/shelly/assets/img/img1.jpg"
+  },
+  {
+    "title": "Geometric Advance classes and Practical",
+    "day": "Mon-Fri",
+    "time": "10 AM - 12 PM",
+    "teacher": "Al Mamun",
+    "salary": "$45",
+    "image" : "https://html.merku.love/shelly/assets/img/img2.jpg"
+
+  },
+  {
+    "title": "Hospitality, Leisure & Sports Courses",
+    "day": "Mon-Fri",
+    "time": "10 AM - 12 PM",
+    "teacher": "Dip Pal",
+    "salary": "$99",
+    "image" : "https://html.merku.love/shelly/assets/img/img3.jpg"
+  },
+  {
+    "title": "ICT basic Knowledge",
+    "day": "Mon-Fri",
+    "time": "10 AM - 12 PM",
+    "teacher": "Hridy Hasan",
+    "salary": "$48",
+    "image" :"https://html.merku.love/shelly/assets/img/img4.jpg"
+  },
+  {
+    "title": "Advance wild life photography",
+    "day": "Mon-Fri",
+    "time": "10 AM - 12 PM",
+    "teacher": "Suvro dey",
+    "salary": "$77",
+    "image" : "https://html.merku.love/shelly/assets/img/img1.jpg"
+  },
+  {
+    "title": "Accounting Full course",
+    "day": "Mon-Fri",
+    "time": "10 AM - 12 PM",
+    "teacher": "Abdulla Alamin",
+    "salary": "$35",
+    "image" :"https://html.merku.love/shelly/assets/img/img4.jpg"
+  },
+  {
+    "title": "Finance Training for 3 month",
+    "day": "Mon-Fri",
+    "time": "10 AM - 12 PM",
+    "teacher": "Abdul Hamid",
+    "salary": "$47",
+    "image" : "https://html.merku.love/shelly/assets/img/img3.jpg"
+  }
+]

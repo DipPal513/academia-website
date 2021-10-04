@@ -1,0 +1,17 @@
+.fa-phone,.fa-location-arrow,.fa-clock{
+    color: #f37335;
+}
+.contact-single h4{
+    color: #fff;
+    font-size: 14.23px;
+    margin-bottom: 6px;
+    font-weight: 600;
+}
+ul.links{
+    list-style:  none;
+}
+
+.footer{
+    background: #212529;
+    color: #fff;
+}

@@ -1,0 +1,12 @@
+.about-list li{
+    background: #030431;
+    margin-top: 5px;
+    color: #fff;
+    padding: 10px 20px;
+}
+.about-btn{
+    background: #030431;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+}
